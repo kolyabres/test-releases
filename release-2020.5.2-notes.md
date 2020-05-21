@@ -1,3 +1,3 @@
-RELEASE-2020.5.2 Notes  
+Tag 2020.5.2.1 Notes  
 ====  
-Diff between tag `2020.5.1.1` and  branch `release-2020.5.2`
+Diff between tag `2020.5.1.1` and  tag `2020.5.2.1`
