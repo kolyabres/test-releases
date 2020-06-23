@@ -1,1 +1,1 @@
-this is reaDME
+this is repo for test releases tool
