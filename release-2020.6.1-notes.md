@@ -34,3 +34,8 @@ Tag 2020.6.1.5 created
 ==  
 Diff between tag `2020.6.1.4` and  tag `2020.6.1.5`  
 [NEW-7](https://intouchhealth.atlassian.net/browse/NEW-7)
+Tag 2020.6.1.6 created  
+==  
+Diff between tag `2020.6.1.5` and  tag `2020.6.1.6`  
+[NEW-8](https://intouchhealth.atlassian.net/browse/NEW-8)  
+[NEW-9](https://intouchhealth.atlassian.net/browse/NEW-9)
